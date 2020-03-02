@@ -1,2 +1,3 @@
-# compbio-dockerfile
-A GPU-enabled Docker setup for computational biology projects
+# Computational Biology Dockerfile
+
+A GPU-enabled Docker setup for computational biology projects.
